@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Gym-Admin/.vs/Gym-Admin/v16/Server/sqlite3
+/Gym-Admin/obj
